@@ -4,6 +4,7 @@
 #
 .utmp/
 /[Ll]ibrary/
+dotgame/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
