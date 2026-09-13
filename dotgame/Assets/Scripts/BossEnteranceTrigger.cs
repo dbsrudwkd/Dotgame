@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement; // 씬 이동을 위해 추가
 
 public class BossEntranceTrigger : MonoBehaviour
 {
@@ -33,9 +34,7 @@ public class BossEntranceTrigger : MonoBehaviour
     // 확인 버튼 눌렀을 때 호출
     public void OnConfirm()
     {
-        if (GameManager.Instance != null)
-        {
-            GameManager.Instance.ChangeScene(battleSceneName);
-        }
+        // 싱글톤 매니저 없이 direct로 씬 이동 처리
+        SceneManager.LoadScene(battleSceneName);
     }
 }
