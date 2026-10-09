@@ -1,0 +1,34 @@
+Ancient Temple and Ruins Pixel Asset Pack
+Includes clean and mossy variants.
+
+CLEAN
+01_temple_arch_clean.png
+02_stairs_angled_clean.png
+03_amphora_clean.png
+04_broken_amphora_clean.png
+05_ceremonial_bowl_pedestal_clean.png
+06_rubble_clean.png
+07_column_clean.png
+08_column_cracked_clean.png
+09_column_stump_broken_clean.png
+10_column_fallen_clean.png
+11_pedestal_square_clean.png
+12_altar_clean.png
+13_stairs_angled_mirror_clean.png
+14_stairs_front_clean.png
+
+MOSSY
+01_temple_arch_mossy.png
+02_stairs_angled_mossy.png
+03_amphora_mossy.png
+04_broken_amphora_mossy.png
+05_ceremonial_bowl_pedestal_mossy.png
+06_rubble_mossy.png
+07_column_mossy.png
+08_column_cracked_mossy.png
+09_column_stump_broken_mossy.png
+10_column_fallen_mossy.png
+11_pedestal_square_mossy.png
+12_altar_mossy.png
+13_stairs_angled_mirror_mossy.png
+14_stairs_front_mossy.png
